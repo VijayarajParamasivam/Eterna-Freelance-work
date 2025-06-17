@@ -1,9 +1,6 @@
-# Eterna - Overview
-Eterna is a minimalistic smart timepiece that blends design, emotion, and technology. I built its full embedded control system and Bluetooth app integration as a freelance founding developer.
-
 # 🕰️ Eterna – A Symbolic Timepiece for Mindful Living
 
-**Eterna** is an innovative fusion of art, engineering, and emotional design, developed for Eleven11 — a lifestyle brand focused on enhancing the human experience through meaningful products. As a freelance embedded systems and software developer, I contributed to building the first production-ready version of this unique device.
+**Eterna** is an innovative fusion of art, engineering, and emotional design, developed for Eleven11 — a lifestyle brand focused on enhancing the human experience through meaningful products. I as the founding developer, contributed to building the first production-ready version of this unique device.
 
 ---
 
