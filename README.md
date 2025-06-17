@@ -40,7 +40,7 @@ This project is under active development and has been deployed to early users fo
 
 ## 📫 Let's Connect
 
-If you're interested in hardware-integrated products, embedded systems, or building emotional tech experiences — feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/vijayaraj-paramasivam/]).
+If you're interested in building emotional tech experiences — feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/vijayaraj-paramasivam/]).
 
 ---
 
